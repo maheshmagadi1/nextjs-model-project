@@ -20,8 +20,9 @@ export default function Home() {
             aria-hidden
             src="https://raw.githubusercontent.com/maheshmagadi1/bookie-images/3909a399c87a1400c63c994dd2623e303b93b12a/author.svg"
             alt="Author Pic"
-            width={16}
-            height={16}
+            width={30}
+            height={30}
+            className="author-image"
           />
           Visit Author →
         </a>
